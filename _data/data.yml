@@ -57,17 +57,11 @@ education:
       time: 2018 - 2021
       details: |
           - **Research Area:** Intelligent transportation systems. Mainly focus on the charging process of plug-in electric vehicles.
-    - degree: B.E. in Communication Engineering
+    - degree: B.E. in Communication Engineering, GPA: 3.86/4.0, Rank: 5/131, Honorary Graduate
       university: University of Science and Technology Beijing
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Mathematical Analysis I(94/100),Mathematical Analysis II(93/100),Complex Analysis and Integral Transform A(94/100), Probability \& Mathematical Statistics A(93/100), Communication Principles(90/100)}
 experiences:
     - role: Lead Developer
       time: 2015 - Present
