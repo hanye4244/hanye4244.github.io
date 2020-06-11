@@ -57,7 +57,7 @@ education:
       time: 2018 - 2021
       details: |
           - **Research Area:** Intelligent transportation systems. Mainly focus on the charging process of plug-in electric vehicles.
-    - degree: B.E. in Communication Engineering, GPA: 3.86/4.0, Rank: 5/131, Honorary Graduate
+    - degree: {B.E. in Communication Engineering, GPA: 3.86/4.0, Rank: 5/131, Honorary Graduate}
       university: University of Science and Technology Beijing
       time: 2014 - 2018
       details: |
