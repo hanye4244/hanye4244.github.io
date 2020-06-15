@@ -105,7 +105,7 @@ projects:
     title: Projects
     assignments:
       - title: Multi-Agent Reinforcement Learning Enabling Dynamic Pricing Policy for Charging Station Operators
-      - intro: |
+        intro: |
          - Focusing on the dynamic pricing policy for maximizing the long-term profits of charging station operators (CSOs).
          - Proposing a hierarchical framework to describe the economic association of plug-in electric vehicle (PEV) market, which is composed of smart grid, CSOs and charging stations (CSs) serving PEVs from top to bottom. 
          - Designing a dynamic pricing policy algorithm based on multi-agent reinforcement learning to achieve higher long-term profits of CSOs.
