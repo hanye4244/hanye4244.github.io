@@ -103,14 +103,15 @@ education:
 #           - Bullet point
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Multi-Agent Reinforcement Learning Enabling Dynamic Pricing Policy for Charging Station Operators
+         - Focusing on the dynamic pricing policy for maximizing the long-term profits of charging station operators (CSOs).
+         - Proposing a hierarchical framework to describe the economic association of plug-in electric vehicle (PEV) market, which is composed of smart grid, CSOs and charging stations (CSs) serving PEVs from top to bottom. 
+         - Designing a dynamic pricing policy algorithm based on multi-agent reinforcement learning to achieve higher long-term profits of CSOs.
+         - The simulation based on the real data of PEVs in Beijing.
+        # link: "#hook"
+        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        
 
       - title: DevStudio
         link: "#"
@@ -172,5 +173,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
