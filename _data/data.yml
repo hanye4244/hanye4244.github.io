@@ -62,8 +62,6 @@ projects:
          - Proposing a hierarchical framework to describe the economic association of plug-in electric vehicle (PEV) market, which is composed of smart grid, CSOs and charging stations (CSs) serving PEVs from top to bottom. 
          - Designing a dynamic pricing policy algorithm based on multi-agent reinforcement learning to achieve higher long-term profits of CSOs.
          - The simulation based on the real data of PEVs in Beijing.
-        # link: "#hook"
-        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
         
       - title: Dynamic Pre-Scheduling strategy for Electric Taxi with Passenger Demand Considering
         # link: "#"
