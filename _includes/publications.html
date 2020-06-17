@@ -1,3 +1,12 @@
+<!--
+ * @Author: Ye Han
+ * @Date: 2020-06-10 11:13:09
+ * @LastEditTime: 2020-06-17 15:32:51
+ * @LastEditors: Ye Han
+ * @Description: 
+ * @Copyright (c) 2020 - Ye Han
+ * All rights reserved.
+-->
 {% assign publications = site.data.data.publications %}
 {% if publications %}
 <section class="section publications-section">
@@ -13,20 +22,23 @@
   {% if publications.intro %}
   <div class="intro">
     {{ publications.intro | markdownify }}
-  </div><!--//intro-->
+  </div>
+  <!--//intro-->
   {% endif %}
 
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
-      <li>{{ publication.title }}</li>
+    <li>{{ publication.title }}</li>
     {% endif %}
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
-  </div><!--//item-->
+  </div>
+  <!--//item-->
   {% endfor %}
 
-</section><!--//section-->
+</section>
+<!--//section-->
 {% endif %}
