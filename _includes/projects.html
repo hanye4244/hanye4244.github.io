@@ -1,7 +1,7 @@
 <!--
  * @Author: Ye Han
  * @Date: 2020-06-10 11:13:09
- * @LastEditTime: 2020-06-17 15:24:01
+ * @LastEditTime: 2020-06-17 15:27:27
  * @LastEditors: Ye Han
  * @Description: 
  * @Copyright (c) 2020 - Ye Han
@@ -23,9 +23,14 @@
   <div class="intro">
     <p>{{ projects.intro }}</p>
   </div>
-  //intro
+  <!-- //intro -->
   {% endif %}
-
+  {% if graduation.details %}
+  <div class="details">
+    {{ graduation.details | markdownify }}
+  </div>
+  <!--//details-->
+  {% endif %}
   {% for project in projects.assignments %}
   <div class="item">
 
@@ -42,9 +47,9 @@
     {% endif %}
 
   </div>
-  //item
+  <!--//item-->
   {% endfor %}
 
 </section>
-//section
+<!--//section-->
 {% endif %}
