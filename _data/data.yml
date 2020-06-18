@@ -63,54 +63,30 @@ projects:
          - Designing a dynamic pricing policy algorithm based on multi-agent reinforcement learning to achieve higher long-term profits of CSOs.
          - The simulation based on the real data of PEVs in Beijing.
         
-      - title: Dynamic Pre-Scheduling strategy for Electric Taxi with Passenger Demand Considering
-        # link: "#"
+      - title: Dynamic Pre-Scheduling Strategy for Electric Taxi with Passenger Demand Considering
         tagline: "A responsive website template designed to help web developers/designers market their services."
         intro: 
 
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Multi-Agent Reinforcement Learning Enabling Dynamic Pricing Policy for Charging Station Operators
         link: "https://ieeexplore.ieee.org/document/9013999/"
+        authors: Ye Han, Xuefei Zhang, Jian Zhang, Qimei Cui, Shuo Wang, and Zhu Han
         conference: IEEE Global Communications 2019
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
