@@ -3,7 +3,7 @@
 # Site Settings
 title: Han's Resume
 url: 'https://hanye4244.github.io/'
-baseurl: '' #change it according to your repository name
+baseurl: '/hanye4244.github.io' #change it according to your repository name
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
@@ -32,7 +32,7 @@ compress_html: # - http://jch.penibelst.de/
 detach:  false
 port:    4000
 host:    127.0.0.1
-baseurl: "" # does not include hostname
+# baseurl: "" # does not include hostname
 show_dir_listing: false
 
 theme: jekyll-theme-time-machine
