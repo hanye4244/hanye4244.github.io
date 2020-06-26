@@ -61,15 +61,14 @@ projects:
          - Focusing on the dynamic pricing policy for maximizing the long-term profits of charging station operators (CSOs).
          - Proposing a hierarchical framework to describe the economic association of plug-in electric vehicle (PEV) market, which is composed of smart grid, CSOs and charging stations (CSs) serving PEVs from top to bottom. 
          - Designing a dynamic pricing policy algorithm based on multi-agent reinforcement learning to achieve higher long-term profits of CSOs.
-         - The PEV charging demands are calculated based on the dataset from the National New Energy Vehicle Big Data Platform of China.
-        
+         - The PEV charging demands are calculated based on the dataset from the National New Energy Vehicle Big Data Platform of China.  
       - title: Dynamic Pre-Scheduling Strategy for Electric Taxi with Passenger Demand Considering
         details: |
-        - Focusing on the dynamic charging pre-scheduling strategies of plug-in electric taxis (PETs), with considering not only the situations of PETs but the waiting time guarantee of PET passengers (TPs), aiming at maximizing the time-average profits of public charging stations (PCSs). 
-        - Prosing a double-queue system (DQS) to describe the association of PETs, PCSs and TPs in a city.
-        - Formulating a stochastic optimization problem based on the DQS to maximizing the time-average profits of PCSs
-        - Designing a dynamic charging pre-scheduling algorithm based on the Lyapunov optimization technology to solve the problem.
-        - The theoretical analysis and simulation based on real vehicle datasets of Beijing shows the performances and the feasibility of the proposed scheme.
+         - Focusing on the dynamic charging pre-scheduling strategies of plug-in electric taxis (PETs), with considering not only the situations of PETs but the waiting time guarantee of PET passengers (TPs), aiming at maximizing the time-average profits of public charging stations (PCSs). 
+         - Prosing a double-queue system (DQS) to describe the association of PETs, PCSs and TPs in a city.
+         - Formulating a stochastic optimization problem based on the DQS to maximizing the time-average profits of PCSs.
+         - Designing a dynamic charging pre-scheduling algorithm based on the Lyapunov optimization technology to solve the problem.
+         - The theoretical analysis and simulation based on real vehicle datasets of Beijing shows the performances and the feasibility of the proposed scheme.
   
 publications:
     title: Publications
